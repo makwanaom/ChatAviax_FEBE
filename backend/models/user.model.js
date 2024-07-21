@@ -25,7 +25,7 @@ const userSchema = new mongoose.Schema(
 			type: String,
 			default: "",
 		},
-		// createdAt, updatedAt
+		// createdAt, updatedAt 
 	},
 	{ timestamps: true }
 );
